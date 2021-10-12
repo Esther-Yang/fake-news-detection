@@ -29,6 +29,6 @@
 
 * Notebooks starting with "`zz`" are miscellaneous, can be ignored.
 
-## More Information
+## Description of the overall workflow
 
-For more information, such as the written description of the overall workflow, kindly refer to [this file]().
+Kindly refer to [this file](https://github.com/Esther-Yang/fake-news-detection/blob/main/fake-news-detection-description.pdf 'Link fake-news-detection-description.pdf') for written description on collection of datasets, exploratory analysis, text preprocessing, feature extraction, selection of machine learning algorithms and method of model evaluation. The specifications of implementation are included in the aforementioned file too.
