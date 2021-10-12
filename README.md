@@ -13,9 +13,10 @@
 
 * `processed_data` (path to store processed DataFrame after running notebook 1-1 to 3-2)
 
+  - `df_raw.pkl` (six classes)
   - `df_bi_A.pkl` (binary class with Mapping A)
   - `df_bi_B.pkl` (binary class with Mapping B)
-  - `df_raw.pkl` (six classes)
+  
 
 * `py_files` (Python files for report writing purposes, can be ignored)
 
@@ -31,4 +32,4 @@
 
 ## Description of the overall workflow
 
-Kindly refer to [this file](https://github.com/Esther-Yang/fake-news-detection/blob/main/fake-news-detection-description.pdf 'Link fake-news-detection-description.pdf') for written description on collection of datasets, exploratory analysis, text preprocessing, feature extraction, selection of machine learning algorithms and method of model evaluation. The specifications of implementation are included in the aforementioned file too.
+Kindly refer to [this file](https://github.com/Esther-Yang/fake-news-detection/blob/main/fake-news-detection-description.pdf 'fake-news-detection-description.pdf') for written description on collection of datasets, exploratory analysis, text preprocessing, feature extraction, selection of machine learning algorithms and method of model evaluation. The specifications of implementation are included in the aforementioned file too.
